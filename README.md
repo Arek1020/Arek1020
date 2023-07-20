@@ -2,6 +2,20 @@
 
 I'm fullstack JS developer.
 
+My tech stack:
+- Node.js
+- Express
+- React
+- React Native
+- MySql
+- MongoDB
+
+🌱 I’m currently learning:
+- Microservices
+- Docker
+- TypeScript
+  
+
 <!--
 **Arek1020/Arek1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
