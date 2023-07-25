@@ -14,6 +14,7 @@ My tech stack:
 - Microservices
 - Docker
 - TypeScript
+- GraphQl
   
 
 <!--
