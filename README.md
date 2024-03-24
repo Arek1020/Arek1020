@@ -13,6 +13,7 @@ My tech stack:
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_core_prosp-brand_gic-null_emea-pl_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624548&adgroup=115749720623&cq_cmp=12212624548&gad_source=1&gclid=CjwKCAjwnv-vBhBdEiwABCYQA_KrXqhcw9019ZxIAWUVTBaGisv9ZgONOlBb00j7lr8bocmjWbkXehoCPbMQAvD_BwE" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://expressjs.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://expressjs.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 - Node.js
 - Express
 - React
