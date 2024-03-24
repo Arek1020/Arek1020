@@ -3,6 +3,7 @@
 I'm fullstack JS developer.
 
 My tech stack:
+<a href="https://nodejs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"> </a>
 - Node.js
 - Express
 - React
