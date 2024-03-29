@@ -20,13 +20,14 @@ My tech stack:
 - React Native
 - MySql
 - MongoDB
-
-🌱 I’m currently learning:
 - Microservices
 - Docker
 - TypeScript
 - GraphQl
-  
+
+<!--
+🌱 I’m currently learning:
+  -->
 
 <!--
 **Arek1020/Arek1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
